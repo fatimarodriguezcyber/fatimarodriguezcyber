@@ -19,7 +19,9 @@
 
 <div align="center>
     
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
     
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
 
@@ -30,6 +32,7 @@
 
 <img width="100" height="477" alt="linux" src="https://github.com/user-attachments/assets/651a944a-3f54-4a18-859c-2ba5ad1565cf" />
 <img width="100" height="168" alt="sequal" src="https://github.com/user-attachments/assets/aa99825f-67ff-4615-bf50-c3e02a28e58c" />
+<img width="157" height="148" alt="java" src="https://github.com/user-attachments/assets/7bb68fcf-0f40-4660-87ab-2f1d52419b5e" />
 
 <footer>
 <h1>Thank you!</h1>
