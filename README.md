@@ -9,6 +9,12 @@
  <h1> Welcome!</h1>
 <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="made with love  markdown badge" ></a>
 <p> Hey there ! I'm Fatima A. Rodriguez, I am a student at Arizona State University pursuing a degree in Full-Stack Web Development! During my studies I fell in love with the coding process and enjoyed problem solving, I ran into cybersecurity and fell inlove even more especially as I am able to integrate my knowledge of web development into this fulfilling career. I am now an aspiring cybersecurity analyst looking to break into this field of great opportunity. I hope to showcase my determination and practical skills on my Github to further elevate my mastery of cybersecurity and web development. </p>
+
+<h2> Certifications </h2>
+
+<img width="200" height="200" alt="google-cybersecurity-professional-certificate-v2" src="https://github.com/user-attachments/assets/cede1b34-c783-4929-b504-ef21dc430828" />
+
+
 <h2>Programming Languages</h2>
 <div align="center>
     
