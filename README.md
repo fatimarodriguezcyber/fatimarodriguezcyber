@@ -24,6 +24,11 @@
 <img width="100" height="477" alt="linux" src="https://github.com/user-attachments/assets/651a944a-3f54-4a18-859c-2ba5ad1565cf" />
 <img width="100" height="168" alt="sequal" src="https://github.com/user-attachments/assets/aa99825f-67ff-4615-bf50-c3e02a28e58c" />
 
+<footer>
+<h1>Thank you!</h1>
+Thank you for reading this far and joining me on this journey! Alot more coming soon!
+</footer>
+
 
 </body>
 </html>
